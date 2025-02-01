@@ -3,7 +3,7 @@
 # ✅ ১. math (গাণিতিক গণনার জন্য)
 import hashlib
 import socket
-import urllib.request
+import urllib.request0
 from collections import Counter
 import re
 import json
